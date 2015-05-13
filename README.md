@@ -1,13 +1,14 @@
 # 使用vagrant 搭建开发环境
 ------
 
-### 1. 安装vagrant
+### 1. 安装vagrant && virtualbox
 
-[下载vagrant][1]
+下载[vagrant][1]
+下载[virtualbox][2]
 
 ### 2. vagrantbox 源下载
 
-[获取 vagrantbox][2]
+获取[vagrantbox][3]
 
 ### 3. install
 
@@ -41,4 +42,5 @@
 
 
 [1]: https://www.vagrantup.com
-[2]: http://www.vagrantbox.es/
+[2]: https://www.virtualbox.org/
+[3]: http://www.vagrantbox.es
