@@ -7,7 +7,7 @@
 
 ### 2. vagrantbox 源下载
 
-[get vagrantbox][2]
+[获取 vagrantbox][2]
 
 ### 3. install
 
@@ -34,8 +34,8 @@
     推荐工具： [putty] [xshell]。
 
 ```php
-    username  vagrant
-    password  vagrant
+    username:  vagrant
+    password:  vagrant
 ```
 
 
