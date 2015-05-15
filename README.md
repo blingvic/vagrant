@@ -3,8 +3,7 @@
 
 ### 1. 安装vagrant && virtualbox
 
->下载地址: [vagrant][1]
->下载地址: [virtualbox][2]
+>下载地址: [vagrant][1], [virtualbox][2]
 
 
 ### 2. vagrantbox 
