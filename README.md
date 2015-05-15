@@ -3,12 +3,13 @@
 
 ### 1. 安装vagrant && virtualbox
 
-下载[vagrant][1]
-下载[virtualbox][2]
+>下载地址: [vagrant][1]
+>下载地址: [virtualbox][2]
 
-### 2. vagrantbox 源下载
 
-获取[vagrantbox][3]
+### 2. vagrantbox 
+
+>下载地址: [vagrantbox][3] 
 
 ### 3. install
 
@@ -17,22 +18,21 @@
 
 
 ```php
-    vagrant box add {title} {url}
-```
-    title 为这个box的名字，url 是 vagrantbox存放路径
+vagrant box add {title} {url}
 
-```php
-    vagrant init {title}
-```
-    初始化box
+-title 为这个box的名字，url 是 vagrantbox存放路径
 
-```php
-    vagrant up
+vagrant init {title}
+
+-初始化box
+
+vagrant up
 ```
-    启动的vagrant
+启动的vagrant
 
 ### 4. 远程登录环境
-    推荐工具： [putty] [xshell]。
+
+推荐工具：`putty`  `xshell`
 
 ```php
     username:  vagrant
